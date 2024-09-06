@@ -1,0 +1,6 @@
+rootProject.name = 'OPENFEIGN_WITH_MULTIMOUDLE_PRACTICE'
+include 'customer-service'
+include 'order-service'
+include 'product-service'
+include 'common'
+

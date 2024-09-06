@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: customer_service
+  datasource:
+    username: postgres
+    password: qwas1234
+    url: jdbc:postgresql://localhost:5432/practice1
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+server:
+  port: 9091
